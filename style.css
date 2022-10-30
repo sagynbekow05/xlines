@@ -1,0 +1,115 @@
+﻿*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px 0;
+}
+
+#header {
+    background: #161D2F;
+}
+
+.logo {
+    font-size: 24px;
+    color: #FFFFFF
+
+
+}
+
+.menu{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+.menu a{
+    font-size: 14px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.btn{
+    background: linear-gradient(97.1deg, #3043A9 11.99%, #1F629F 96.6%);
+    border-radius: 28px;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding: 10px 15px;
+    border: none;
+}
+#hero{
+    background: #161D2F;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.play {
+    position: absolute;
+}
+#qwerty{
+    background: #161D2F;
+}
+.qwerty h4 {
+    color: #FFFFFF;
+    padding: 50px 0 0 0;
+}
+.qwerty{
+    text-align: center;
+}
+.qwerty h1{
+    Width: 700px;
+    color: #FFFFFF;
+    margin-top: 30px;
+    font-size: 62px;
+    text-align: center;
+    margin-left: 215px;
+}
+.titleSPan {
+    margin: 0 190px 0 140px;
+}
+.qwerty p{
+    width: 500px;
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-left: 313px;
+    line-height: 30px;
+}
+.your{
+
+    width: 157px;
+    height: 53px;
+    background: linear-gradient(97.1deg, #3043A9 11.99%, #1F629F 96.6%);
+    border-radius: 28px;
+    margin-left: 190px;
+    margin-top: 55px;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding: 10px 15px;
+    border: none;
+}
+.ntc{
+    width: 157px;
+    height: 53px;
+    background: #161D2F;
+    border-radius: 28px;
+    margin-top: 55px;
+    margin-right: 210px;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding: 10px 15px;
+    border: 1px solid #FFFFFF;
+}
+.btn-title{
+    padding: 15px;
+
+}
+
